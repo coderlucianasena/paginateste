@@ -1,0 +1,50 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:#ffffff;
+border: 1px solid yellow;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+header{
+    color: white;
+}
+
+div {
+color: white;
+border: 1px solid green;
+} 
+
+#login {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+p{
+    color: white;
+    text-align: justify;
+    padding: 10px;
+}
+
+h2 {
+    color: white;
+    text-align: left;
+    padding: 0px 120px;
+}
+
+title {
+    color: white;
+}
+/*border:1px solid black*/
